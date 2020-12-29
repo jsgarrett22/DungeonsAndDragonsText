@@ -1,4 +1,4 @@
-package com.frontier.entities;
+package edu.cscc.main;
 
 import java.util.Arrays;
 import java.util.Collections;

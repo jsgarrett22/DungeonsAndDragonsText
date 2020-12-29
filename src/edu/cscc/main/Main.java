@@ -1,4 +1,4 @@
-package com.frontier.entities;
+package edu.cscc.main;
 
 public class Main {
     public static void main(String[] args) {

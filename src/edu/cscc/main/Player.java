@@ -1,4 +1,4 @@
-package com.frontier.entities;
+package edu.cscc.main;
 
 /**
  * Base player class
@@ -23,10 +23,10 @@ public class Player {
 
     /**
      * Constructor
-     * @param name
-     * @param race
-     * @param playerClass
-     * @param hitpoints
+     * @param name Player's name
+     * @param race Player's race
+     * @param playerClass Player's class
+     * @param hitpoints Player's health
      */
     public Player(String name, String race, String playerClass, int hitpoints) {
         this.name = name;
